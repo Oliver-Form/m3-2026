@@ -64,10 +64,11 @@ def make_plots(base_subgroup: pd.DataFrame) -> None:
     ax.set_xlabel("Subgroup")
     ax.tick_params(axis="x", rotation=75)
     fig.tight_layout()
+    print(f"Plot 1 data:\n{ordered[['sex', 'age_band', 'education', 'mean_net_gain_loss_usd']].to_string()}")
     fig.savefig(PLOTS_DIR / "q2_mean_net_by_subgroup.png", dpi=180)
     plt.close(fig)
 
-    # Plot 2: tail risk probability over $2,000
+    # Plot 2: tail risk probability over $2,000í
     ordered_tail = base_subgroup.copy().sort_values("p_loss_over_2000", ascending=False)
     labels_tail = subgroup_label(ordered_tail)
 

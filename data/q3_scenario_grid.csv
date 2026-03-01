@@ -1,0 +1,145 @@
+sex,age_band,education,risk_tier,hold_scenario,return_scenario,annual_loss_usd,years_to_retirement,savings_shadow_usd
+Female,18-34,B.A. or higher,medium,low_hold,3% real,283.10761007094607,39,20450.060999381563
+Female,18-34,B.A. or higher,medium,low_hold,4% real,283.10761007094607,39,25595.518302948938
+Female,18-34,B.A. or higher,medium,low_hold,5% real,283.10761007094607,39,32301.169307458207
+Female,18-34,No college,medium,low_hold,3% real,210.9264731974272,39,15236.111958243951
+Female,18-34,No college,medium,low_hold,4% real,210.9264731974272,39,19069.68309311183
+Female,18-34,No college,medium,low_hold,5% real,210.9264731974272,39,24065.660829349585
+Female,35-49,B.A. or higher,medium,low_hold,3% real,226.23479663788785,23,7341.97154513728
+Female,35-49,B.A. or higher,medium,low_hold,4% real,226.23479663788785,23,8284.240576008007
+Female,35-49,B.A. or higher,medium,low_hold,5% real,226.23479663788785,23,9373.015113012398
+Female,35-49,No college,medium,low_hold,3% real,179.92705627818634,23,5839.151832638663
+Female,35-49,No college,medium,low_hold,4% real,179.92705627818634,23,6588.548899165238
+Female,35-49,No college,medium,low_hold,5% real,179.92705627818634,23,7454.463428252484
+Female,50-64,B.A. or higher,low,low_hold,3% real,34.45221524108999,8,306.3606754616418
+Female,50-64,B.A. or higher,low,low_hold,4% real,34.45221524108999,8,317.45050639416604
+Female,50-64,B.A. or higher,low,low_hold,5% real,34.45221524108999,8,328.9879543490188
+Female,50-64,No college,low,low_hold,3% real,32.04474715623431,8,284.95266023047384
+Female,50-64,No college,low,low_hold,4% real,32.04474715623431,8,295.2675507462595
+Female,50-64,No college,low,low_hold,5% real,32.04474715623431,8,305.99877949176334
+Female,65+,B.A. or higher,low,low_hold,3% real,5.376756349112743,0,0.0
+Female,65+,B.A. or higher,low,low_hold,4% real,5.376756349112743,0,0.0
+Female,65+,B.A. or higher,low,low_hold,5% real,5.376756349112743,0,0.0
+Female,65+,No college,low,low_hold,3% real,4.350926942848291,0,0.0
+Female,65+,No college,low,low_hold,4% real,4.350926942848291,0,0.0
+Female,65+,No college,low,low_hold,5% real,4.350926942848291,0,0.0
+Male,18-34,B.A. or higher,high,low_hold,3% real,2341.8080832196283,39,169158.71014094277
+Male,18-34,B.A. or higher,high,low_hold,4% real,2341.8080832196283,39,211720.8775879285
+Male,18-34,B.A. or higher,high,low_hold,5% real,2341.8080832196283,39,267188.64732281625
+Male,18-34,No college,high,low_hold,3% real,1489.3341529297163,39,107580.90984640973
+Male,18-34,No college,high,low_hold,4% real,1489.3341529297163,39,134649.43440046225
+Male,18-34,No college,high,low_hold,5% real,1489.3341529297163,39,169925.61456439501
+Male,35-49,B.A. or higher,high,low_hold,3% real,1789.9193178957537,23,58088.04346360803
+Male,35-49,B.A. or higher,high,low_hold,4% real,1789.9193178957537,23,65543.06614833667
+Male,35-49,B.A. or higher,high,low_hold,5% real,1789.9193178957537,23,74157.2077639452
+Male,35-49,No college,high,low_hold,3% real,1229.9430616740938,23,39915.19914332189
+Male,35-49,No college,high,low_hold,4% real,1229.9430616740938,23,45037.91799105433
+Male,35-49,No college,high,low_hold,5% real,1229.9430616740938,23,50957.12541368344
+Male,50-64,B.A. or higher,high,low_hold,3% real,605.9155498324387,8,5388.004684760734
+Male,50-64,B.A. or higher,high,low_hold,4% real,605.9155498324387,8,5583.042970688284
+Male,50-64,B.A. or higher,high,low_hold,5% real,605.9155498324387,8,5785.953554878823
+Male,50-64,No college,medium,low_hold,3% real,129.6135492224864,8,1152.5672358340173
+Male,50-64,No college,medium,low_hold,4% real,129.6135492224864,8,1194.2885689147258
+Male,50-64,No college,medium,low_hold,5% real,129.6135492224864,8,1237.693893301956
+Male,65+,B.A. or higher,low,low_hold,3% real,22.415993752729555,0,0.0
+Male,65+,B.A. or higher,low,low_hold,4% real,22.415993752729555,0,0.0
+Male,65+,B.A. or higher,low,low_hold,5% real,22.415993752729555,0,0.0
+Male,65+,No college,low,low_hold,3% real,25.83238458172472,0,0.0
+Male,65+,No college,low,low_hold,4% real,25.83238458172472,0,0.0
+Male,65+,No college,low,low_hold,5% real,25.83238458172472,0,0.0
+Female,18-34,B.A. or higher,medium,base_hold,3% real,343.0275029205811,39,24778.328485883852
+Female,18-34,B.A. or higher,medium,base_hold,4% real,343.0275029205811,39,31012.824866199695
+Female,18-34,B.A. or higher,medium,base_hold,5% real,343.0275029205811,39,39137.73086557312
+Female,18-34,No college,medium,base_hold,3% real,259.9705479690249,39,18778.773070342155
+Female,18-34,No college,medium,base_hold,4% real,259.9705479690249,39,23503.71619152641
+Female,18-34,No college,medium,base_hold,5% real,259.9705479690249,39,29661.34567274897
+Female,35-49,B.A. or higher,medium,base_hold,3% real,283.2267440719598,23,9191.524587292248
+Female,35-49,B.A. or higher,medium,base_hold,4% real,283.2267440719598,23,10371.16535705641
+Female,35-49,B.A. or higher,medium,base_hold,5% real,283.2267440719598,23,11734.218573126382
+Female,35-49,No college,medium,base_hold,3% real,222.68927798767643,23,7226.909240710825
+Female,35-49,No college,medium,base_hold,4% real,222.68927798767643,23,8154.411169119344
+Female,35-49,No college,medium,base_hold,5% real,222.68927798767643,23,9226.122590793146
+Female,50-64,B.A. or higher,low,base_hold,3% real,37.748224265073866,8,335.6698953143917
+Female,50-64,B.A. or higher,low,base_hold,4% real,37.748224265073866,8,347.8206792965898
+Female,50-64,B.A. or higher,low,base_hold,5% real,37.748224265073866,8,360.46190337459836
+Female,50-64,No college,low,base_hold,3% real,34.59112541153154,8,307.5959113774505
+Female,50-64,No college,low,base_hold,4% real,34.59112541153154,8,318.730456134448
+Female,50-64,No college,low,base_hold,5% real,34.59112541153154,8,330.31442269051854
+Female,65+,B.A. or higher,low,base_hold,3% real,7.454820337752723,0,0.0
+Female,65+,B.A. or higher,low,base_hold,4% real,7.454820337752723,0,0.0
+Female,65+,B.A. or higher,low,base_hold,5% real,7.454820337752723,0,0.0
+Female,65+,No college,low,base_hold,3% real,4.700472311274674,0,0.0
+Female,65+,No college,low,base_hold,4% real,4.700472311274674,0,0.0
+Female,65+,No college,low,base_hold,5% real,4.700472311274674,0,0.0
+Male,18-34,B.A. or higher,high,base_hold,3% real,2869.579046091871,39,207281.8407121592
+Male,18-34,B.A. or higher,high,base_hold,4% real,2869.579046091871,39,259436.20158284428
+Male,18-34,B.A. or higher,high,base_hold,5% real,2869.579046091871,39,327404.6875169476
+Male,18-34,No college,high,base_hold,3% real,1864.934644452445,39,134712.12317236958
+Male,18-34,No college,high,base_hold,4% real,1864.934644452445,39,168607.15546969615
+Male,18-34,No college,high,base_hold,5% real,1864.934644452445,39,212779.76131657822
+Male,35-49,B.A. or higher,high,base_hold,3% real,2273.3201360593453,23,73775.79399799596
+Male,35-49,B.A. or higher,high,base_hold,4% real,2273.3201360593453,23,83244.1834469107
+Male,35-49,B.A. or higher,high,base_hold,5% real,2273.3201360593453,23,94184.73333306494
+Male,35-49,No college,high,base_hold,3% real,1574.7130528876737,23,51103.97957288122
+Male,35-49,No college,high,base_hold,4% real,1574.7130528876737,23,57662.66711474036
+Male,35-49,No college,high,base_hold,5% real,1574.7130528876737,23,65241.109956213564
+Male,50-64,B.A. or higher,high,base_hold,3% real,703.7583229732946,8,6258.0555032266075
+Male,50-64,B.A. or higher,high,base_hold,4% real,703.7583229732946,8,6484.588420326881
+Male,50-64,B.A. or higher,high,base_hold,5% real,703.7583229732946,8,6720.2648483092225
+Male,50-64,No college,medium,base_hold,3% real,153.1167160950787,8,1361.5652938162898
+Male,50-64,No college,medium,base_hold,4% real,153.1167160950787,8,1410.8520663084266
+Male,50-64,No college,medium,base_hold,5% real,153.1167160950787,8,1462.128192693995
+Male,65+,B.A. or higher,low,base_hold,3% real,26.251233502484716,0,0.0
+Male,65+,B.A. or higher,low,base_hold,4% real,26.251233502484716,0,0.0
+Male,65+,B.A. or higher,low,base_hold,5% real,26.251233502484716,0,0.0
+Male,65+,No college,low,base_hold,3% real,28.6231351902531,0,0.0
+Male,65+,No college,low,base_hold,4% real,28.6231351902531,0,0.0
+Male,65+,No college,low,base_hold,5% real,28.6231351902531,0,0.0
+Female,18-34,B.A. or higher,medium,high_hold,3% real,402.94739577021625,39,29106.59597238615
+Female,18-34,B.A. or higher,medium,high_hold,4% real,402.94739577021625,39,36430.13142945046
+Female,18-34,B.A. or higher,medium,high_hold,5% real,402.94739577021625,39,45974.29242368804
+Female,18-34,No college,medium,high_hold,3% real,309.01462274062254,39,22321.43418244036
+Female,18-34,No college,medium,high_hold,4% real,309.01462274062254,39,27937.749289940995
+Female,18-34,No college,medium,high_hold,5% real,309.01462274062254,39,35257.03051614835
+Female,35-49,B.A. or higher,medium,high_hold,3% real,340.21869150603175,23,11041.077629447214
+Female,35-49,B.A. or higher,medium,high_hold,4% real,340.21869150603175,23,12458.090138104815
+Female,35-49,B.A. or higher,medium,high_hold,5% real,340.21869150603175,23,14095.422033240367
+Female,35-49,No college,medium,high_hold,3% real,265.4514996971665,23,8614.666648782986
+Female,35-49,No college,medium,high_hold,4% real,265.4514996971665,23,9720.273439073448
+Female,35-49,No college,medium,high_hold,5% real,265.4514996971665,23,10997.781753333808
+Female,50-64,B.A. or higher,low,high_hold,3% real,41.04423328905774,8,364.97911516714163
+Female,50-64,B.A. or higher,low,high_hold,4% real,41.04423328905774,8,378.1908521990136
+Female,50-64,B.A. or higher,low,high_hold,5% real,41.04423328905774,8,391.93585240017796
+Female,50-64,No college,low,high_hold,3% real,37.13750366682878,8,330.2391625244271
+Female,50-64,No college,low,high_hold,4% real,37.13750366682878,8,342.19336152263645
+Female,50-64,No college,low,high_hold,5% real,37.13750366682878,8,354.63006588927374
+Female,65+,B.A. or higher,low,high_hold,3% real,9.532884326392702,0,0.0
+Female,65+,B.A. or higher,low,high_hold,4% real,9.532884326392702,0,0.0
+Female,65+,B.A. or higher,low,high_hold,5% real,9.532884326392702,0,0.0
+Female,65+,No college,low,high_hold,3% real,5.050017679701055,0,0.0
+Female,65+,No college,low,high_hold,4% real,5.050017679701055,0,0.0
+Female,65+,No college,low,high_hold,5% real,5.050017679701055,0,0.0
+Male,18-34,B.A. or higher,high,high_hold,3% real,3397.3500089641143,39,245404.9712833757
+Male,18-34,B.A. or higher,high,high_hold,4% real,3397.3500089641143,39,307151.52557776007
+Male,18-34,B.A. or higher,high,high_hold,5% real,3397.3500089641143,39,387620.727711079
+Male,18-34,No college,high,high_hold,3% real,2240.5351359751726,39,161843.33649832936
+Male,18-34,No college,high,high_hold,4% real,2240.5351359751726,39,202564.87653892997
+Male,18-34,No college,high,high_hold,5% real,2240.5351359751726,39,255633.9080687613
+Male,35-49,B.A. or higher,high,high_hold,3% real,2756.720954222937,23,89463.5445323839
+Male,35-49,B.A. or higher,high,high_hold,4% real,2756.720954222937,23,100945.30074548474
+Male,35-49,B.A. or higher,high,high_hold,5% real,2756.720954222937,23,114212.25890218467
+Male,35-49,No college,high,high_hold,3% real,1919.483044101254,23,62292.76000244056
+Male,35-49,No college,high,high_hold,4% real,1919.483044101254,23,70287.41623842642
+Male,35-49,No college,high,high_hold,5% real,1919.483044101254,23,79525.09449874371
+Male,50-64,B.A. or higher,high,high_hold,3% real,801.6010961141508,8,7128.106321692483
+Male,50-64,B.A. or higher,high,high_hold,4% real,801.6010961141508,8,7386.133869965481
+Male,50-64,B.A. or higher,high,high_hold,5% real,801.6010961141508,8,7654.576141739623
+Male,50-64,No college,medium,high_hold,3% real,176.61988296767106,8,1570.563351798563
+Male,50-64,No college,medium,high_hold,4% real,176.61988296767106,8,1627.415563702128
+Male,50-64,No college,medium,high_hold,5% real,176.61988296767106,8,1686.5624920860353
+Male,65+,B.A. or higher,low,high_hold,3% real,30.086473252239877,0,0.0
+Male,65+,B.A. or higher,low,high_hold,4% real,30.086473252239877,0,0.0
+Male,65+,B.A. or higher,low,high_hold,5% real,30.086473252239877,0,0.0
+Male,65+,No college,low,high_hold,3% real,31.41388579878149,0,0.0
+Male,65+,No college,low,high_hold,4% real,31.41388579878149,0,0.0
+Male,65+,No college,low,high_hold,5% real,31.41388579878149,0,0.0
