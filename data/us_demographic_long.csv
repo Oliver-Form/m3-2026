@@ -1,0 +1,331 @@
+question,segment_group,segment,percent
+Has account with online sportsbook,Total by year,2025,22.0
+Has account with online sportsbook,Total by year,2024,19.0
+Has account with online sportsbook,Gender,Male,30.0
+Has account with online sportsbook,Gender,Female,15.0
+Has account with online sportsbook,Age,18-34,35.0
+Has account with online sportsbook,Age,35-49,34.0
+Has account with online sportsbook,Age,50-64,10.0
+Has account with online sportsbook,Age,65+,4.0
+Has account with online sportsbook,Eduation,No college,21.0
+Has account with online sportsbook,Eduation,B.A. or higher,25.0
+"Of those with an account, percentage with at least one sports betting app",Total by year,2025,87.0
+"Of those with an account, percentage with at least one sports betting app",Total by year,2024,91.0
+"Of those with an account, percentage with at least one sports betting app",Gender,Male,90.0
+"Of those with an account, percentage with at least one sports betting app",Gender,Female,81.0
+"Of those with an account, percentage with at least one sports betting app",Age,18-34,89.0
+"Of those with an account, percentage with at least one sports betting app",Age,35-49,89.0
+"Of those with an account, percentage with at least one sports betting app",Age,50-64,76.0
+"Of those with an account, percentage with at least one sports betting app",Age,65+,73.0
+"Of those with an account, percentage with at least one sports betting app",Eduation,No college,85.0
+"Of those with an account, percentage with at least one sports betting app",Eduation,B.A. or higher,90.0
+Just one,Total by year,2025,40.0
+Just one,Total by year,2024,37.0
+Just one,Gender,Male,37.0
+Just one,Gender,Female,46.0
+Just one,Age,18-34,34.0
+Just one,Age,35-49,39.0
+Just one,Age,50-64,51.0
+Just one,Age,65+,73.0
+Just one,Eduation,No college,39.0
+Just one,Eduation,B.A. or higher,41.0
+2,Total by year,2025,34.0
+2,Total by year,2024,35.0
+2,Gender,Male,36.0
+2,Gender,Female,31.0
+2,Age,18-34,38.0
+2,Age,35-49,36.0
+2,Age,50-64,25.0
+2,Age,65+,10.0
+2,Eduation,No college,35.0
+2,Eduation,B.A. or higher,33.0
+3,Total by year,2025,15.0
+3,Total by year,2024,21.0
+3,Gender,Male,16.0
+3,Gender,Female,13.0
+3,Age,18-34,16.0
+3,Age,35-49,15.0
+3,Age,50-64,12.0
+3,Age,65+,12.0
+3,Eduation,No college,15.0
+3,Eduation,B.A. or higher,15.0
+4 or more,Total by year,2025,10.0
+4 or more,Total by year,2024,7.0
+4 or more,Gender,Male,11.0
+4 or more,Gender,Female,8.0
+4 or more,Age,18-34,12.0
+4 or more,Age,35-49,9.0
+4 or more,Age,50-64,7.0
+4 or more,Age,65+,5.0
+4 or more,Eduation,No college,10.0
+4 or more,Eduation,B.A. or higher,10.0
+More than 2 times a day,Total by year,2025,19.0
+More than 2 times a day,Total by year,2024,24.0
+More than 2 times a day,Gender,Male,22.0
+More than 2 times a day,Gender,Female,16.0
+More than 2 times a day,Age,18-34,24.0
+More than 2 times a day,Age,35-49,18.0
+More than 2 times a day,Age,50-64,12.0
+More than 2 times a day,Age,65+,10.0
+More than 2 times a day,Eduation,No college,21.0
+More than 2 times a day,Eduation,B.A. or higher,16.0
+Once or twice each day,Total by year,2025,25.0
+Once or twice each day,Total by year,2024,24.0
+Once or twice each day,Gender,Male,28.0
+Once or twice each day,Gender,Female,20.0
+Once or twice each day,Age,18-34,30.0
+Once or twice each day,Age,35-49,23.0
+Once or twice each day,Age,50-64,21.0
+Once or twice each day,Age,65+,16.0
+Once or twice each day,Eduation,No college,23.0
+Once or twice each day,Eduation,B.A. or higher,31.0
+A couple of times a week,Total by year,2025,30.0
+A couple of times a week,Total by year,2024,30.0
+A couple of times a week,Gender,Male,30.0
+A couple of times a week,Gender,Female,30.0
+A couple of times a week,Age,18-34,37.0
+A couple of times a week,Age,35-49,33.0
+A couple of times a week,Age,50-64,23.0
+A couple of times a week,Age,65+,50.0
+A couple of times a week,Eduation,No college,29.0
+A couple of times a week,Eduation,B.A. or higher,32.0
+Once in a while,Total by year,2025,18.0
+Once in a while,Total by year,2024,20.0
+Once in a while,Gender,Male,16.0
+Once in a while,Gender,Female,22.0
+Once in a while,Age,18-34,14.0
+Once in a while,Age,35-49,21.0
+Once in a while,Age,50-64,29.0
+Once in a while,Age,65+,14.0
+Once in a while,Eduation,No college,20.0
+Once in a while,Eduation,B.A. or higher,16.0
+Never,Total by year,2025,6.0
+Never,Total by year,2024,3.0
+Never,Gender,Male,3.0
+Never,Gender,Female,10.0
+Never,Age,18-34,4.0
+Never,Age,35-49,6.0
+Never,Age,50-64,13.0
+Never,Age,65+,10.0
+Never,Eduation,No college,7.0
+Never,Eduation,B.A. or higher,4.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Total by year,2025,83.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Total by year,2024,88.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Gender,Male,87.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Gender,Female,77.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Age,18-34,86.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Age,35-49,82.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Age,50-64,72.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Age,65+,88.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Eduation,No college,80.0
+"Of those with an account, percent that have placed a bet on a sporting event through an online sportsbook?",Eduation,B.A. or higher,88.0
+Win more than lose,Total by year,2025,30.0
+Win more than lose,Total by year,2024,36.0
+Win more than lose,Gender,Male,33.0
+Win more than lose,Gender,Female,25.0
+Win more than lose,Age,18-34,33.0
+Win more than lose,Age,35-49,29.0
+Win more than lose,Age,50-64,17.0
+Win more than lose,Age,65+,25.0
+Win more than lose,Eduation,No college,24.0
+Win more than lose,Eduation,B.A. or higher,39.0
+Lose more than win,Total by year,2025,37.0
+Lose more than win,Total by year,2024,30.0
+Lose more than win,Gender,Male,36.0
+Lose more than win,Gender,Female,38.0
+Lose more than win,Age,18-34,38.0
+Lose more than win,Age,35-49,36.0
+Lose more than win,Age,50-64,47.0
+Lose more than win,Age,65+,23.0
+Lose more than win,Eduation,No college,41.0
+Lose more than win,Eduation,B.A. or higher,31.0
+Usually break even,Total by year,2025,33.0
+Usually break even,Total by year,2024,33.0
+Usually break even,Gender,Male,30.0
+Usually break even,Gender,Female,37.0
+Usually break even,Age,18-34,29.0
+Usually break even,Age,35-49,34.0
+Usually break even,Age,50-64,36.0
+Usually break even,Age,65+,46.0
+Usually break even,Eduation,No college,35.0
+Usually break even,Eduation,B.A. or higher,29.0
+$50 or less,Total by year,2025,21.0
+$50 or less,Total by year,2024,20.0
+$50 or less,Gender,Male,18.0
+$50 or less,Gender,Female,27.0
+$50 or less,Age,18-34,14.0
+$50 or less,Age,35-49,24.0
+$50 or less,Age,50-64,27.0
+$50 or less,Age,65+,43.0
+$50 or less,Eduation,No college,23.0
+$50 or less,Eduation,B.A. or higher,17.0
+$50-$99.99,Total by year,2025,22.0
+$50-$99.99,Total by year,2024,18.0
+$50-$99.99,Gender,Male,20.0
+$50-$99.99,Gender,Female,26.0
+$50-$99.99,Age,18-34,24.0
+$50-$99.99,Age,35-49,20.0
+$50-$99.99,Age,50-64,27.0
+$50-$99.99,Age,65+,17.0
+$50-$99.99,Eduation,No college,25.0
+$50-$99.99,Eduation,B.A. or higher,18.0
+$100-$199.99,Total by year,2025,21.0
+$100-$199.99,Total by year,2024,20.0
+$100-$199.99,Gender,Male,20.0
+$100-$199.99,Gender,Female,21.0
+$100-$199.99,Age,18-34,24.0
+$100-$199.99,Age,35-49,16.0
+$100-$199.99,Age,50-64,20.0
+$100-$199.99,Age,65+,25.0
+$100-$199.99,Eduation,No college,21.0
+$100-$199.99,Eduation,B.A. or higher,20.0
+$200-$499.99,Total by year,2025,18.0
+$200-$499.99,Total by year,2024,21.0
+$200-$499.99,Gender,Male,19.0
+$200-$499.99,Gender,Female,16.0
+$200-$499.99,Age,18-34,19.0
+$200-$499.99,Age,35-49,19.0
+$200-$499.99,Age,50-64,9.0
+$200-$499.99,Age,65+,12.0
+$200-$499.99,Eduation,No college,14.0
+$200-$499.99,Eduation,B.A. or higher,24.0
+$500-$999.99,Total by year,2025,9.0
+$500-$999.99,Total by year,2024,12.0
+$500-$999.99,Gender,Male,10.0
+$500-$999.99,Gender,Female,6.0
+$500-$999.99,Age,18-34,9.0
+$500-$999.99,Age,35-49,10.0
+$500-$999.99,Age,50-64,4.0
+$500-$999.99,Age,65+,3.0
+$500-$999.99,Eduation,No college,8.0
+$500-$999.99,Eduation,B.A. or higher,10.0
+$1000 or more,Total by year,2025,10.0
+$1000 or more,Total by year,2024,8.0
+$1000 or more,Gender,Male,13.0
+$1000 or more,Gender,Female,3.0
+$1000 or more,Age,18-34,10.0
+$1000 or more,Age,35-49,11.0
+$1000 or more,Age,50-64,11.0
+$1000 or more,Age,65+,0.0
+$1000 or more,Eduation,No college,10.0
+$1000 or more,Eduation,B.A. or higher,9.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Total by year,2025,86.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Total by year,2024,80.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Gender,Male,88.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Gender,Female,82.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Age,18-34,90.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Age,35-49,86.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Age,50-64,73.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Age,65+,66.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Eduation,No college,88.0
+"Of those with an account AND who have placed a bet, I think I can make money by placing bets",Eduation,B.A. or higher,82.0
+When I started and have never deposited again,Total by year,2025,16.0
+When I started and have never deposited again,Total by year,2024,16.0
+When I started and have never deposited again,Gender,Male,15.0
+When I started and have never deposited again,Gender,Female,18.0
+When I started and have never deposited again,Age,18-34,16.0
+When I started and have never deposited again,Age,35-49,12.0
+When I started and have never deposited again,Age,50-64,19.0
+When I started and have never deposited again,Age,65+,32.0
+When I started and have never deposited again,Eduation,No college,14.0
+When I started and have never deposited again,Eduation,B.A. or higher,19.0
+Once in a while,Total by year,2025,39.0
+Once in a while,Total by year,2024,43.0
+Once in a while,Gender,Male,39.0
+Once in a while,Gender,Female,39.0
+Once in a while,Age,18-34,25.0
+Once in a while,Age,35-49,41.0
+Once in a while,Age,50-64,49.0
+Once in a while,Age,65+,48.0
+Once in a while,Eduation,No college,38.0
+Once in a while,Eduation,B.A. or higher,40.0
+Monthly,Total by year,2025,22.0
+Monthly,Total by year,2024,22.0
+Monthly,Gender,Male,22.0
+Monthly,Gender,Female,22.0
+Monthly,Age,18-34,25.0
+Monthly,Age,35-49,22.0
+Monthly,Age,50-64,17.0
+Monthly,Age,65+,13.0
+Monthly,Eduation,No college,23.0
+Monthly,Eduation,B.A. or higher,21.0
+Weekly or more often,Total by year,2025,22.0
+Weekly or more often,Total by year,2024,18.0
+Weekly or more often,Gender,Male,23.0
+Weekly or more often,Gender,Female,19.0
+Weekly or more often,Age,18-34,24.0
+Weekly or more often,Age,35-49,24.0
+Weekly or more often,Age,50-64,15.0
+Weekly or more often,Age,65+,3.0
+Weekly or more often,Eduation,No college,23.0
+Weekly or more often,Eduation,B.A. or higher,19.0
+If I win $500 or more I take the money out,Total by year,2025,23.0
+If I win $500 or more I take the money out,Total by year,2024,24.0
+If I win $500 or more I take the money out,Gender,Male,28.0
+If I win $500 or more I take the money out,Gender,Female,14.0
+If I win $500 or more I take the money out,Age,18-34,25.0
+If I win $500 or more I take the money out,Age,35-49,25.0
+If I win $500 or more I take the money out,Age,50-64,19.0
+If I win $500 or more I take the money out,Age,65+,5.0
+If I win $500 or more I take the money out,Eduation,No college,20.0
+If I win $500 or more I take the money out,Eduation,B.A. or higher,29.0
+If I win $100 or more I take the monty out,Total by year,2025,50.0
+If I win $100 or more I take the monty out,Total by year,2024,47.0
+If I win $100 or more I take the monty out,Gender,Male,48.0
+If I win $100 or more I take the monty out,Gender,Female,56.0
+If I win $100 or more I take the monty out,Age,18-34,52.0
+If I win $100 or more I take the monty out,Age,35-49,50.0
+If I win $100 or more I take the monty out,Age,50-64,43.0
+If I win $100 or more I take the monty out,Age,65+,51.0
+If I win $100 or more I take the monty out,Eduation,No college,52.0
+If I win $100 or more I take the monty out,Eduation,B.A. or higher,47.0
+I leave my winnings in the account in order to make more bets,Total by year,2025,20.0
+I leave my winnings in the account in order to make more bets,Total by year,2024,24.0
+I leave my winnings in the account in order to make more bets,Gender,Male,20.0
+I leave my winnings in the account in order to make more bets,Gender,Female,20.0
+I leave my winnings in the account in order to make more bets,Age,18-34,18.0
+I leave my winnings in the account in order to make more bets,Age,35-49,20.0
+I leave my winnings in the account in order to make more bets,Age,50-64,28.0
+I leave my winnings in the account in order to make more bets,Age,65+,25.0
+I leave my winnings in the account in order to make more bets,Eduation,No college,21.0
+I leave my winnings in the account in order to make more bets,Eduation,B.A. or higher,19.0
+I've never withdrawn money from my account,Total by year,2025,5.0
+I've never withdrawn money from my account,Total by year,2024,5.0
+I've never withdrawn money from my account,Gender,Male,3.0
+I've never withdrawn money from my account,Gender,Female,9.0
+I've never withdrawn money from my account,Age,18-34,3.0
+I've never withdrawn money from my account,Age,35-49,4.0
+I've never withdrawn money from my account,Age,50-64,10.0
+I've never withdrawn money from my account,Age,65+,20.0
+I've never withdrawn money from my account,Eduation,No college,6.0
+I've never withdrawn money from my account,Eduation,B.A. or higher,4.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Total by year,2025,52.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Total by year,2024,53.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Gender,Male,57.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Gender,Female,41.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Age,18-34,58.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Age,35-49,54.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Age,50-64,38.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Age,65+,15.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Eduation,No college,52.0
+"Of those with an account AND have placed a bet, percent that have ""chased"" a bet (that is, bet an increased amount in hopes of getting money back from a previous bet where money was lost).",Eduation,B.A. or higher,51.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Total by year,2025,56.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Total by year,2024,59.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Gender,Male,63.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Gender,Female,43.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Age,18-34,56.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Age,35-49,62.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Age,50-64,48.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Age,65+,26.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Eduation,No college,51.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $100 or more in one day using an online sportsbook.",Eduation,B.A. or higher,63.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Total by year,2025,24.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Total by year,2024,24.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Gender,Male,28.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Gender,Female,15.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Age,18-34,25.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Age,35-49,26.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Age,50-64,20.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Age,65+,3.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Eduation,No college,19.0
+"Of those with an account AND have placed a bet, percent that have bet a total of $500 or more in one day using an online sportsbook.",Eduation,B.A. or higher,31.0
