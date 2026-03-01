@@ -1,0 +1,6 @@
+person_id,age,gender,country,annual_income_usd,employment_status,education,household_size,risk_tolerance,bets_per_week,avg_stake_usd,odds_mean_decimal,parlay_share,live_bet_share,promo_use_rate,avg_session_minutes,deposits_per_month,withdrawals_per_month,yearly_total_staked_usd,yearly_total_payout_usd,yearly_net_gain_loss_usd
+P0001,24,male,US,52000,full_time,bachelors,1,high,12,28,2.35,0.42,0.38,0.55,48,9,2,17472,16120,-1352
+P0002,41,female,UK,78000,full_time,masters,3,medium,4,18,1.95,0.15,0.20,0.35,22,3,2,3744,3620,-124
+P0003,33,non_binary,US,64000,self_employed,bachelors,2,low,2,12,1.82,0.08,0.12,0.22,15,2,1,1248,1265,17
+P0004,58,male,UK,45000,part_time,no_college,2,medium,5,20,2.10,0.20,0.27,0.40,28,4,1,5200,4780,-420
+P0005,29,female,US,91000,full_time,phd,1,low,1,25,1.75,0.05,0.10,0.15,12,1,1,1300,1368,68
